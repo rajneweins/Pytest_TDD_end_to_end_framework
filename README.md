@@ -101,6 +101,6 @@ Test reports and logs will be generated in the reports folder for better trackin
 We welcome contributions to this automation framework. If you have improvements, bug fixes, or new features to add, please create a pull request.
 
 ## License
-This automation framework is open-source and available under the MIT License. Feel free to use, modify, and distribute it as needed.
+This automation framework is open-source. Download it and feel free to use, modify, and distribute it as needed.
 
 With this update, your README now includes information about the `conftest.py` and `execute_tests.py` files, which are essential for the setup and execution of tests within your automation framework.
