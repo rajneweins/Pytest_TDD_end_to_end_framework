@@ -1,6 +1,6 @@
 # Python Automation Framework
 
-This is a Python-based automation framework that includes methods for handling APIs, database interactions, UI testing using Selenium, and additional utility modules for working with Parquet files, Databricks, and cluster connectivity. This framework is designed to facilitate test automation for web applications and data processing by combining different testing aspects and utility functions into a cohesive and easy-to-use structure.
+This is a Python-based TDD automation framework that includes methods for handling APIs, database interactions, UI testing using Selenium, and additional utility modules for working with Parquet files, Databricks, and cluster connectivity. This framework is designed to facilitate test automation for web applications and data processing by combining different testing aspects and utility functions into a cohesive and easy-to-use structure.
 
 ## Table of Contents
 
